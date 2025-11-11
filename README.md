@@ -42,11 +42,8 @@ The dataset includes anonymized employee records with fields such as:
 3. Use slicers to segment data by role, salary, or education.
 
 ## 📬 Contact
-Created by **Abhishek Upadhayay**  
-📧 abhishek.email@example.com  
-
-Show what the dashboard looks like. -![Alt text](https://github.com/Upadhayay0211/Microsoft-Power-BI-Dashboard/blob/main/image.png)
-
+Created by **Abhishek Rajput**  
+📧 kakurajput11223344@gmail.com
 
 ---
 
